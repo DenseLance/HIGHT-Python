@@ -124,7 +124,7 @@ year="2006",
 publisher="Springer Berlin Heidelberg",
 address="Berlin, Heidelberg",
 pages="46--59",
-abstract="In this paper, we propose a new block cipher HIGHT with 64-bit block length and 128-bit key length. It provides low-resource hardware implementation, which is proper to ubiquitous computing device such as a sensor in USN or a RFID tag. HIGHT does not only consist of simple operations to be ultra-light but also has enough security as a good encryption algorithm. Our hardware implementation of HIGHT requires 3048 gates on 0.25 $\mu$m technology.",
+abstract="In this paper, we propose a new block cipher HIGHT with 64-bit block length and 128-bit key length. It provides low-resource hardware implementation, which is proper to ubiquitous computing device such as a sensor in USN or a RFID tag. HIGHT does not only consist of simple operations to be ultra-light but also has enough security as a good encryption algorithm. Our hardware implementation of HIGHT requires 3048 gates on 0.25 μm technology.",
 isbn="978-3-540-46561-4"
 }
 ```
