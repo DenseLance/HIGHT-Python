@@ -29,7 +29,7 @@ assert C == expected_C
 def ecb_hight_decryption(C, MK):
     WK, SK = decryption_key_schedule(MK)
     D = decryption_transformation(C, WK, SK)
-    for block in range(8, len(P), 8):
+    for block in range(8, len(C), 8):
         D += decryption_transformation(C[block:block + 8], WK, SK)
     return D
 
